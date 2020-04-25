@@ -1,2 +1,2 @@
 # hello-world
-My welcome to github and git version saving, team collaboration and sharing my code
+Welcome to my first github repository I will be using git for version saving and github for team collaboration and sharing my code
