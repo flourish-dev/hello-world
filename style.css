@@ -1,19 +1,19 @@
 body {
-    background-color: pink;
+    background-color: white;
+    font-family: verdana;
 }
 
-h1{
-    color: blue;
+h1 {
+    color: black;
     text-align: left;
 }
 
-div{
+div {
     background-color: coral;
 }
 
-p{
+p {
 
-font-family: Verdana;
 font-size: 20;
 
 }
