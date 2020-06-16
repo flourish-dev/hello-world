@@ -17,7 +17,8 @@ header {
       background-size: cover;  
 
       color: white;  
-  text-align; centre;
+      text-align: centre;
+  height: 400px;
 
     }  
 nav {  
