@@ -39,13 +39,18 @@ nav {
 text-decoration: none;
   color:white;
 }
+.menu a:hover{
+
+  color:red;
+  
+}
   
 
     .menu ul {  
 
   
 
-      padding: 10px;  
+    
 
   
 
