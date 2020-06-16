@@ -17,14 +17,13 @@ header {
       background-size: cover;  
 
       color: white;  
+  text-align; centre;
 
     }  
 nav {  
 
       display:inline;
-      color: white;  
-padding: 10px;  
-background: rgba(211,150,255,0.9);
+     
     }  
   
 
@@ -57,7 +56,6 @@ background: rgba(211,150,255,0.9);
 
   
 
-      display: inline;  
 
   
 
