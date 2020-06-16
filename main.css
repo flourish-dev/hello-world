@@ -2,7 +2,7 @@ body {
 
 
   font-family: helvetica, sans-serif;  
-margin: 0 auto ;
+margin: 0 auto;
 
 }  
 
@@ -23,7 +23,7 @@ padding: 0;
 nav {  
   padding: 0;
   margin: 0:
-     border-bottom: 1px solid black;
+     border-bottom: 3px solid black;
   
     }  
   
@@ -35,10 +35,11 @@ nav {
 
     }  
 .menu a:visited{
-
 text-decoration: none;
-  color:white;
+  color: pink;
+  
 }
+  
 .menu a:hover{
 
   color:red;
@@ -48,11 +49,6 @@ text-decoration: none;
 
     .menu ul {  
  list-style-type: none;
-  
-
-    
-
-  
 padding: 10px;
       background: rgba(211,150,255,0.9);  
 
@@ -63,13 +59,8 @@ padding: 10px;
   
 
     .menu li {  
-
-  
-
-
-  
 display:inline;
-      padding: 0px 10px 0px 10px;  
+      padding: 10px 10px 10px 10px;  
 
   
 
