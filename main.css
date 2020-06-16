@@ -22,10 +22,10 @@ header {
 
     }  
 nav {  
-float: right;
-      display:inline;
+float: left;
+      display: inline;
      border-bottom: 1px solid black;
-  margin:0;
+  margin: 0px;
     }  
   
 
@@ -35,7 +35,11 @@ float: right;
 
 
     }  
+.menu a:visited{
 
+text-decoration: none;
+  color:white;
+}
   
 
     .menu ul {  
