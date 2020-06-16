@@ -13,12 +13,6 @@
 
   
 
-  max-width: 600px;  
-
-  
-
-  background: #fff;  
-
   
 
 }  
@@ -27,10 +21,6 @@
 
 header {  
 
-      height: 400px;
-
-      text-align: center;  
-
       background: url('https://i.imgur.com/qqO99cT.jpg');  
 
       background-size: cover;  
@@ -38,33 +28,19 @@ header {
       color: white;  
 
     }  
+nav {  
 
+      display:inline;
+      color: white;  
+padding: 0px 10px 0px 10px;  
+
+    }  
   
 
     a {  
 
       color: white;  
 
-
-    }  
-
-  
-
-      
-
-  
-
-      
-
-  
-
-    img {  
-
-  
-
-        
-
-  
 
     }  
 
