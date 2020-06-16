@@ -24,11 +24,11 @@ header {
 nav {  
 
       display:inline;
-     
+     border-bottom: 1px solid black;
     }  
   
 
-    a {  
+    .menu a {  
 
       color: white;  
 
@@ -37,7 +37,7 @@ nav {
 
   
 
-    ul {  
+    .menu ul {  
 
   
 
@@ -53,7 +53,7 @@ nav {
 
   
 
-    li {  
+    .menu li {  
 
   
 
