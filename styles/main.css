@@ -1,0 +1,103 @@
+
+/*global*/
+
+body{
+  
+  background: red;
+  font-family: helvetica, sans-serif;  
+  margin: 0 auto;
+  padding: 0px;
+}
+
+.wrapper{
+width: 100%;
+max-width: 1100px;
+margin: 0 auto;
+/*background: pink;*/
+text-align: center;
+padding: 0 0 10px 0;
+}
+
+
+
+/*siteHeader*/
+#header {  
+  padding: 0px;
+  margin: 0px;
+  background: url('https://i.imgur.com/qqO99cT.jpg') no-repeat;  
+  background-size: cover;  
+  height: 600px;
+  color: white;
+
+}  
+
+
+input {  
+
+  
+
+  border: 0;  
+
+  padding: 10px; 
+
+  font-size: 18px;  
+
+
+
+}  
+
+
+
+
+input[type="submit"] {  
+
+  background: red;  
+  color: white;  
+  border-radius: 4px;
+}  
+
+/*navigation*/
+.main-nav{
+ 
+ display: flex;
+
+ 
+}
+.main-nav li{
+   list-style: none;
+   border-radius: 4px;
+   
+  
+  }
+ 
+
+  .main-nav li:first-child {
+    margin-right: auto;
+    padding: 0px 0px;
+  }
+
+.main-nav a {
+  color: white;
+  display: block;
+  padding: 10px 30px;
+  text-decoration: none;
+}
+ .callToAction a {
+  color: black;
+  background: white;
+  border: 1px solid black;
+border-radius: 4px;
+  box-shadow: 0 12px 10px -10px rgba(0, 0, 0, 1);
+  margin-left: 25px;
+}
+
+
+
+
+/*siteMainContent*/
+/*feature can be used somewhere else does not affect structure-*/
+
+
+
+/*Footer*/
+
